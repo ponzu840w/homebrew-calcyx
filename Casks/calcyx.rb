@@ -15,8 +15,8 @@
 
 cask "calcyx" do
   # Placeholders. bump-formula.sh substitutes these per release tag.
-  version "1.0.1"
-  sha256 "5225734fe75bcd0820750e1098da5ee5c4ebebf8b3ef245c86239c517d231f08"
+  version "1.0.2"
+  sha256 "0dc3148dc8d774a19573aa3a7da4b63935aa98b151a6414bd04d3abfe2a052f6"
 
   url "https://github.com/ponzu840w/calcyx/releases/download/v#{version}/calcyx-mac-#{version}.dmg"
   name "calcyx"

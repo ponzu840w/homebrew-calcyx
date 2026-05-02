@@ -24,8 +24,8 @@ class Calcyx < Formula
   desc "Engineer's calculator (CLI/TUI). Scratchpad-style with hex/bin/ECC ops"
   homepage "https://github.com/ponzu840w/calcyx"
   # Placeholders. bump-formula.sh substitutes these per release tag.
-  url "https://github.com/ponzu840w/calcyx/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "92c756cb0ffbca0a689f13eaef3f474290afce799459cc7defc3ac673740e9ca"
+  url "https://github.com/ponzu840w/calcyx/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "731c8ffa7b5ac3fb8b48a3782ae656fde09c6dc5f1c58957db7bce8d0944fe04"
   license "MIT"
   head "https://github.com/ponzu840w/calcyx.git", branch: "master"
 
